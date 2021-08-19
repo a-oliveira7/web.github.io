@@ -624,3 +624,9 @@ margin-right: 10px;
 .pl-1{
     padding-left:.25rem
 }
+.about{
+  padding-: 50px;
+  padding-top: 0px;
+  text-align: center;
+  color: black;
+}
